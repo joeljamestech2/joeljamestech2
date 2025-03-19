@@ -1,200 +1,50 @@
+<img
+ src="https://komarev.com/ghpvc/?username=joeljamestech&color=brightgreen&style=plastic&label=%F0%9F%91%80+Profile+Views">
+</p>
 
+![My card name](https://cardivo.vercel.app/api?name=Joel%20James%20Tech%20&description=Hey%20You%20Welcome%20To%20My%20Profile%20&image=https://i.ibb.co/HtT3vjm/goku-gif-3.gif?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&gitHub=joeljamestech2&tiktok=joeljamestec)
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## 📊ＳＴＡＴＳ
 
 
+![Venocyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeljamestech2&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true)
 
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=JOEL%20MD%20V5&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20JOEL%20TECH%20432%20KING%20OF%20KINGS%20OWNER%20OF%20JOEL%20MD%20WA%20BOT♥️&image=https://files.catbox.moe/5a2euh.jpg?v=4&backgroundColor=%23ecf0f1&github=joeljamestech&pattern=leaf&colorPattern=%23eaeaea"/>
+<p align="center">
+  <a href="https://github.com/joeljamestech2"><img src="https://github-readme-streak-stats.herokuapp.com?user=joeljamestech2&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
+</p>
 
 
+<p align="center">
+  <a href="https://github.com/joeljamestech2"> <img  alt="Xcelsama's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/joeljamestech2?cardType=github&theme=github-dark&preferLogin=true" />  </a>
 
 
 
 
 
 
-### <br> FORK THIS REPO
+- 🌱 I’m currently learning **Coding**
 
+- 💬 Ask me about **Technology , WhatsApp Bots, designing, development**
 
 
-`CLICK THE BOTTOM BELLOW TO FORK THIS REPO , STAR 🌟 THE REPO IF YOU LIKE THIS BOT`
+- ⚡ Fun fact **I am Funny**
 
+---
 
+<h3 align="left">Connect with me:</h3>
 
-<a href='https://github.com/joeljamestech/JOEL-MD/fork' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/FORK REPO-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<p align="left">
 
 
 
-### <br>GET SESSION ID 
-`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+2557145950xx THEN YOU CAN GET YOUR SESSION_ID`
+<a href="http://wa.me/+255698101622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255698101622" height="30" width="40" /></a>
 
+<a href="https://youtube.com/@JASTINMTEWA-vn9pl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
 
-<a href='https://lively-starship-7378eb.netlify.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a></a>
 
-
- 
-### <br>    DEPLOY_HEROKU 
-
-`IF YOU WANT TO DEPLOY JOEL-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT`
-
- 
-
-<a href='https://effulgent-basbousa-1bfe4a.netlify.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/HEROKU-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
-
-
-### <br>     DEPLOY_REPLIT 
-
-`IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY JOEL-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT`
-
-
-
-<a href='https://effulgent-basbousa-1bfe4a.netlify.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/REPLIT-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
-
-
-### <br>   DEPLOY_KOYEB 
-
-`IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY JOEL-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON `
-
-
-
-<a href='https://effulgent-basbousa-1bfe4a.netlify.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/KOYEB-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
-
-### <br>  DEPLOY_RAILWAY 
-
-`IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY JOEL-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON`
-
-
-<a href='https://effulgent-basbousa-1bfe4a.netlify.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
-
-### <br>   DEPLOY_GLITCH 
-
-
-`IF YOU WANT TO DEPLOY JOEL-MD BOT ON GLITCH SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON TO DEPLOY THEN YOU CAN ENJOY THIS BOT`
-
-
-
-<a href='https://effulgent-basbousa-1bfe4a.netlify.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
-
-
-
-### <br>   DEPLOY_CODESPACE 
-
-
-`IF YOU WANT TO DEPLOY JOEL-MD BOT ON CODE SPACE SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON TO DEPLOY THEN YOU CAN ENJOY THIS BOT`
-
-
-
-<a href='https://effulgent-basbousa-1bfe4a.netlify.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CDSPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
-
-
-### <br>    DEPLOY_RENDER 
-
-`IF YOU WANT TO DEPLOY JOEL-MD BOT ON RENDER SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON TO DEPLOY THEN YOU CAN ENJOY THIS BOT`
-
-
-
-
-<a href='https://effulgent-basbousa-1bfe4a.netlify.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
-
-
-### <br>    DEPLOY_WORKFLOWS 
-```
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-
-```
-
-
-
-
- **𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐎𝐖𝐍𝐄𝐑**
-
-
-
-
-
-
-`GET INFORMATION ABOUT ME `
-
-
-
-
-<a href='https://joeljamestech.netlify.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CONTACT ME-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
-
-
-
-**MORE INFO**
-
-
-
-
-
-`GET MORE INFORMATION ABOUT ME`
-
-
-
-<a href='https://my-users-livid.vercel.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/MORE INFO-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*𝙽𝚘𝚝𝚎* :*𝚓𝚘𝚎𝚕 𝚖𝚍 𝚒𝚜 𝚜𝚊𝚏𝚎 𝚘𝚗 𝚑𝚎𝚛𝚘𝚔𝚞 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚘𝚠𝚗𝚎𝚛 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚒𝚗𝚏𝚘*
