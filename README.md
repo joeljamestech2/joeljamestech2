@@ -2,7 +2,7 @@
  src="https://komarev.com/ghpvc/?username=joeljamestech&color=brightgreen&style=plastic&label=%F0%9F%91%80+Profile+Views">
 </p>
 
-![My card name](https://cardivo.vercel.app/api?name=Joel%20James%20Tech%20&description=Hey%20You%20Welcome%20To%20My%20Profile%20&image=https://i.ibb.co/HtT3vjm/goku-gif-3.gif?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&gitHub=joeljamestech2&tiktok=joeljamestec)
+![My card name](https://cardivo.vercel.app/api?name=Joel%20James%20Tech%20&description=Hey%20You%20Welcome%20To%20My%20Profile%20&image=https://i.ibb.co/HtT3vjm/goku-gif-3.gif?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&&)
 
 
 ## 📊ＳＴＡＴＳ
@@ -38,9 +38,9 @@
 
 
 
-<a href="http://wa.me/+255698101622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255698101622" height="30" width="40" /></a>
+<a href="http://wa.me/+255714595078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="" height="30" width="40" /></a>
 
-<a href="https://youtube.com/@JASTINMTEWA-vn9pl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+<a href="https://youtube.com/@joeljamestech255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 
 </p>
 
